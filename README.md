@@ -5,4 +5,5 @@ Starting my journey of coding by learning programming basics, solving easy probl
 - Programming fundamentals and OOP
 - Data Structures and Algorithms
 - Database Systems and Operating Systems
-- 
+- Computer Networks
+- Reactjs, TypeScript, Nextjs, 
