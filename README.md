@@ -6,4 +6,4 @@ Starting my journey of coding by learning programming basics, solving easy probl
 - Data Structures and Algorithms
 - Database Systems and Operating Systems
 - Computer Networks
-- Reactjs, TypeScript, Nextjs, 
+- Reactjs, TypeScript, Nextjs, SCSS, Graphql, NodeJs
